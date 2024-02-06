@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @Abhishek-K-2002
-- 👀 I’m interested in Data science role
-- 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hello there! 👋 I'm Abhishek.K, a certified data scientist passionate about unraveling insights from data and transforming them into meaningful actions. Welcome to my GitHub repository, where I showcase my skills, projects, and contributions to the exciting world of data science.
 
-<!---
-Abhishek-K-2002/Abhishek-K-2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **LinkedIn:** [Abhishek.K on LinkedIn](www.linkedin.com/in/abhishek-k-gowda-556704245)
+
+## Seeking Opportunities
+
+I am currently on the lookout for opportunities in data science and analytical roles. My expertise lies in leveraging data to drive informed decision-making and solve complex problems. If you have a challenging project or an exciting opportunity, I would love to connect!
+
+## Repository Highlights
+
+Here, you will find a collection of my data science projects, code snippets, and explorations. From machine learning models to data visualizations, each project represents a unique facet of my skills and interests in the field.
+
+Feel free to explore, provide feedback, or connect with me for collaboration.
