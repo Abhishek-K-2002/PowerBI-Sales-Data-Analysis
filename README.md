@@ -1,29 +1,91 @@
-Hello there! 👋 I'm Abhishek.K, a certified data scientist passionate about unraveling insights from data and transforming them into meaningful actions. Welcome to my GitHub repository, where I showcase my skills, projects, and contributions to the exciting world of data science.
+# Sales Data Analysis Dashboard - Power BI
 
-## About Me
+A Sales Data Analysis project where I built an interactive Power BI Dashboard to explore and analyze sales data across different regions in the USA.
 
-- **Name:** Abhishek.K
-- **Certification:** Certified Data Scientist
-- **LinkedIn:** [Abhishek.K on LinkedIn](https://www.linkedin.com/in/abhishek-k)
-- **Email:** gowdaabhishek870@gmail.com
-- **Contact Number:** +91 8618054538
+This is a practice data analyst project aimed at demonstrating my skills in data visualization, storytelling, and dashboard creation using Power BI.
 
-## Seeking Opportunities
+---
 
-I am currently on the lookout for opportunities in data science and analytical roles. My expertise lies in leveraging data to drive informed decision-making and solve complex problems. If you have a challenging project or an exciting opportunity, I would love to connect!
+## Project Objective
 
-## Repository Highlights
+The goal of this project is to:
+- Analyze sales data to uncover key insights.
+- Build a professional Power BI dashboard to present findings.
+- Showcase business-critical metrics such as:
+  - Top 10 Selling Products by Region
+  - Top 10 Orders by Sales Value
+  - Regional Sales Performance Overview
 
-Here, you will find a collection of my data science projects, code snippets, and explorations. From machine learning models to data visualizations, each project represents a unique facet of my skills and interests in the field.
+---
 
-Feel free to explore, provide feedback, or connect with me for collaboration. Let's embark on this data-driven journey together!
+## Key Visualizations Included
 
-## Contact
+- Top 10 Selling Products by Region
+- Top 10 Orders by Sales Amount
+- Sales Distribution Across USA Regions
+- Interactive Filters for Product, Region, and Order Category
+- Sales Trend Over Time (Optional if implemented)
 
-📧 Email: gowdaabhishek870@gmail.com
+---
 
-📞 Phone: +91 8618054538
+## Dataset
 
-🌐 Portfolio: [Abhishek.K Portfolio](https://abhishek-k.github.io)
+- The dataset is a practice dataset simulating USA Sales data.
+- Includes columns such as:
+  - Region
+  - Product Name
+  - Order ID
+  - Sales Amount
+  - Quantity Sold
+  - Date
 
-Let's make data tell its story! 🚀
+---
+
+## Key Insights
+
+- Identified top-selling products in each region.
+- Highlighted the top 10 highest-grossing orders.
+- Visualized regions contributing the most to overall sales.
+- Helped uncover patterns that can support data-driven business decisions.
+
+---
+
+## Tools & Technologies Used
+
+- Power BI Desktop
+- Data Cleaning & Modeling in Power BI
+- DAX (Data Analysis Expressions)
+- USA Sales Practice Dataset
+
+---
+
+## Dashboard Preview
+
+(You can add a screenshot of your Power BI dashboard here)  
+![Dashboard Preview](dashboard-screenshot.png)
+
+---
+
+## How to Use
+
+1. Open the Power BI `.pbix` file.
+2. Explore the interactive visuals.
+3. Apply filters to analyze different regions, products, and orders.
+
+---
+
+## Learnings
+
+- Practiced transforming raw sales data into actionable insights.
+- Enhanced proficiency in Power BI data modeling, DAX, and visualization techniques.
+- Focused on presenting clean, clear, and business-relevant dashboards.
+
+---
+
+## Connect with Me
+
+- Email: gowdaabhishek870@gmail.com
+- Location: Bengaluru, India
+- LinkedIn: [https://www.linkedin.com/in/abhishek-k-556704245/]
+
+---
