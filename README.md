@@ -61,7 +61,7 @@ The goal of this project is to:
 
 ## Dashboard Preview
 
-(You can add a screenshot of your Power BI dashboard here)  
+()  
 ![Dashboard Preview](dashboard-screenshot.png)
 
 ---
